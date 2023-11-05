@@ -11,6 +11,7 @@ Registro y Autenticación de Usuarios: Permite a los usuarios registrarse y aute
 Navegar por paginas que requieran autenticacion 
 
 
+NextJS v14
 ### Modulos utilizados
 
 - bcrrypt
